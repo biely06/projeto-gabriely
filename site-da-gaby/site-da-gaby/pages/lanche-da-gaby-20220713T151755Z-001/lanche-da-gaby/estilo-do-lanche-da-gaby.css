@@ -1,0 +1,12 @@
+.pao{
+    background-color: rgb(199, 141, 83);
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 24px;
+    padding-top: 24px;
+    border-radius: 80px;
+}
+.ketchup{
+    background-color: rgb(184, 14, 14);
+}

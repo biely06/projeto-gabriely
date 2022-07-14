@@ -1,0 +1,87 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.pao{
+    background-color: rgb(199, 141, 83);
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 24px;
+    padding-top: 24px;
+    border-radius: 80px;
+    margin: 0;
+}
+.ketchup{
+    background-color: rgb(224, 68, 68);
+    color: black;
+    text-align: center;
+    border-radius: 80px;
+    margin: 0;
+}
+.maionese{
+    background-color: rgb(252, 252, 176);
+    color: black;
+    text-align: center;
+    border-radius: 80px;
+    padding-top: 8;
+    margin: 0;
+}
+.hamburguer{
+    background-color: hsl(0, 23%, 27%);
+    color: black;
+    text-align: center;
+    border-radius: 80px;
+    margin: 0;
+}
+.queijo{
+    background-color: rgb(227, 203, 95);
+    color: black;
+    text-align: center;
+    border-radius: 80px;
+    margin: 0;
+}
+.presunto{
+    background-color: salmon;
+    color: black;
+    text-align: center;
+    border-radius: 80px;
+    margin: 0;
+}
+.ovo{
+    background-color: rgb(253, 233, 140);
+    color: black;
+    text-align: center;
+    border-radius: 80px;
+    margin: 0;
+}
+.alface{
+    background-color: rgb(99, 151, 67);
+    color: black;
+    text-align: center;
+    border-radius: 80px;
+    margin: 0;
+}
+.tomate{
+    background-color: rgb(174, 21, 21);
+    color: black;
+    text-align: center;
+    border-radius: 80px;
+    margin: 0;
+}
+.batata{
+    background-color: rgb(241, 195, 77);
+    color: black;
+    text-align: center;
+    border-radius: 80px;
+    margin: 0;
+}
+.pao{
+    background-color: rgb(199, 141, 83);
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 24px;
+    padding-top: 24px;
+    border-radius: 80px;
+    margin: 0;
+}
